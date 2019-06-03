@@ -6,7 +6,7 @@
 
 ### CollectionView
 
-* [UICollectionViewParallaxCell](.Documents/UICollectionViewParallaxCellProject.md)
+* [UICollectionViewParallaxCell](./Documents/UICollectionViewParallaxCellProject.md)
   - CollectionView에서 스크롤할 때 사용 시차효과를 일으킴
 
    
