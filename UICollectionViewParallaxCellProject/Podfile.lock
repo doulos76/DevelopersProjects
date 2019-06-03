@@ -1,0 +1,16 @@
+PODS:
+  - UICollectionViewParallaxCell (0.1.3)
+
+DEPENDENCIES:
+  - UICollectionViewParallaxCell
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - UICollectionViewParallaxCell
+
+SPEC CHECKSUMS:
+  UICollectionViewParallaxCell: 1102b47af95697fb52a235a6d1b6b9246f927d18
+
+PODFILE CHECKSUM: 4bd23dfb86ecd8b1cbcedc12f57f7e5007aa7894
+
+COCOAPODS: 1.6.1
